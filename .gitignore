@@ -1,0 +1,22 @@
+
+# Large downloaded research data
+Data/
+Model/inter_data/
+Model/bert4eth_exp/
+Model/tmp/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Large model checkpoints
+*.ckpt
+*.index
+*.data-*
+*.h5
+*.keras
+
+# Downloaded archives
+*.zip
